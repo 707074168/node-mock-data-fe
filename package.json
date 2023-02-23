@@ -1,0 +1,23 @@
+{
+  "name": "node-mock-data-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "koa": "^2.14.1",
+    "qs": "^6.11.0"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.13.5",
+    "@types/qs": "^6.9.7",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0"
+  }
+}
