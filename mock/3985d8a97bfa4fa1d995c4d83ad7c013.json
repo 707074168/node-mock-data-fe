@@ -1,0 +1,3 @@
+{
+  "data": "export default {\n  /**\n   * @mode\n   * 1: autoSave\n   * 2: noSave & use mock data\n   * 3: noSave & use online data\n   */\n  mode: 2,\n  apiListConfig: [{\n    mode: 1,\n    host: \"127.0.0.1:5500\",\n    url: \"/next\",\n    proxyHost: \"\",\n    proxyUrl: \"/service.config.ts\",\n    data: [],\n    dataType: {}\n  }],\n  proxyHost: \"\",\n  proxyUrl: \"\",\n  host: \"localhost:3000\",\n  port: 3000\n}"
+}

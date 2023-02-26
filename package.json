@@ -12,10 +12,12 @@
   "dependencies": {
     "axios": "^1.2.1",
     "koa": "^2.14.1",
+    "md5": "^2.3.0",
     "qs": "^6.11.0"
   },
   "devDependencies": {
     "@types/koa": "^2.13.5",
+    "@types/md5": "^2.3.2",
     "@types/qs": "^6.9.7",
     "ts-node": "^10.9.1",
     "ts-node-dev": "^2.0.0"
